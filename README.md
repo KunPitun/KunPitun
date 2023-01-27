@@ -29,6 +29,8 @@
 ## Моя статистика
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunPitun)](https://github.com/anuraghazra/github-readme-stats)
+
+<div width="32" height="32" background="white"></div>
 <!--
 **KunPitun/KunPitun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
