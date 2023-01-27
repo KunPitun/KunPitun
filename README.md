@@ -21,8 +21,8 @@
 * <img width="32" height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" /> Node
 * <img width="32" height="32" src="https://cdn.icon-icons.com/icons2/1098/PNG/512/1485481300-38_78657.png" />HTML
 * <img width="32" height="32" src="https://cdn.icon-icons.com/icons2/1098/PNG/512/1485481352-26_78627.png" /> CSS
-* <img width="32" height="32" src="https://cdn.icon-icons.com/icons2/17/PNG/256/illustartoradobeullustrator_adobeillustartor_2192.png" /> Adobe Illustartor 
-* <img width="32" height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_photoshop_icon_130268.png" /> Photoshop 
+* <img width="32" height="32" src="https://cdn.icon-icons.com/icons2/56/PNG/512/metro_adobeillustrator_11462.png" /> Adobe Illustartor 
+* <img width="32" height="32" src="https://cdn.icon-icons.com/icons2/3070/PNG/512/psd_file_design_graphic_digital_artwork_adobe_photoshop_icon_191032.png" /> Photoshop 
 * <img width="32" height="32" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/procreate-file-3470736-2903599.png?w=256&f=avif" /> Procreate
 
 ## Моя статистика
