@@ -16,7 +16,7 @@
 🌈💣
 -----
 
-* JS <img width="32" height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_plain_logo_icon_146454.png" />
+* <img width="32" height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_plain_logo_icon_146454.png" /> JS
 * React ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 * Node
 * HTML
