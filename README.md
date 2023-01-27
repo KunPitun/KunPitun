@@ -26,8 +26,8 @@
 * Photoshop
 * Procreate
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/[ICON SLUG]" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/[ICON SLUG]/[COLOR]" />
+<img height="32" width="32" src="[https://cdn.simpleicons.org/[ICON SLUG]](https://simpleicons.org/icons/react.svg)" />
+<img height="32" width="32" src="[https://cdn.simpleicons.org/[ICON SLUG]/[COLOR]](https://simpleicons.org/icons/javascript.svg)" />
 
 <!--
 **KunPitun/KunPitun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
