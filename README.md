@@ -26,11 +26,9 @@
 * <img width="32" height="32" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/procreate-file-3470736-2903599.png?w=256&f=avif" /> Procreate
 
 ## Моя статистика
-
 -----
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunPitun)](https://github.com/anuraghazra/github-readme-stats)
-
 -----
 
 <!--
