@@ -30,7 +30,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunPitun)](https://github.com/anuraghazra/github-readme-stats)
 
-<img width="32" height="32" src="https://simpleicons.org/icons/javascript.svg" background="white" /> 
+<img width="32" height="32" src="https://simpleicons.org/icons/javascript.svg" color="white" /> 
 <!--
 **KunPitun/KunPitun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
