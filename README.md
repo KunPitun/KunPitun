@@ -29,8 +29,8 @@
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/simpleicons.svg" />
 <img height="32" width="32" src="https://simpleicons.org/icons/javascript.svg" />
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/[ICON SLUG].svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/[ICON SLUG].svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/simpleicons.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/simpleicons.svg" />
 <!--
 **KunPitun/KunPitun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
