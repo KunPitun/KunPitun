@@ -8,7 +8,19 @@
 * делать крутые интерфейсы
 * освоить новые ЯП
 * у меня есть 5 ящериц и черепаха
-* рептилодиды захватят мир 
+* рептилодиды захватят мир
+
+Мой стек:
+
+* JS
+* React
+* Node
+* HTML
+* CSS
+* MongoDB
+* Adobe Illustartor
+* Photoshop
+* Procreate
 
 <!--
 **KunPitun/KunPitun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
