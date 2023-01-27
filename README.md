@@ -16,19 +16,22 @@
 🌈💣
 -----
 
-* <img width="32" height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_plain_logo_icon_146454.png" /> JS
-* React ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-* Node
-* HTML
-* CSS
-* MongoDB ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-* Adobe Illustartor ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-* Photoshop ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-* Procreate
+* <img width="32" height="32" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" /> JS
+* <img width="32" height="32" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/react_icon_130845.png" />  React
+* <img width="32" height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" /> Node
+* <img width="32" height="32" src="https://cdn.icon-icons.com/icons2/1098/PNG/512/1485481300-38_78657.png" />HTML
+* <img width="32" height="32" src="https://cdn.icon-icons.com/icons2/1098/PNG/512/1485481352-26_78627.png" /> CSS
+* <img width="32" height="32" src="https://cdn.icon-icons.com/icons2/17/PNG/256/illustartoradobeullustrator_adobeillustartor_2192.png" /> Adobe Illustartor 
+* <img width="32" height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_photoshop_icon_130268.png" /> Photoshop 
+* <img width="32" height="32" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/procreate-file-3470736-2903599.png?w=256&f=avif" /> Procreate
 
 ## Моя статистика
 
+-----
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunPitun)](https://github.com/anuraghazra/github-readme-stats)
+
+-----
 
 <!--
 **KunPitun/KunPitun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
