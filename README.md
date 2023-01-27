@@ -16,7 +16,7 @@
 🌈💣
 -----
 
-* <img width="32" height="32" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" /> JS
+* <img width="32" height="32" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" /> JavaScript
 * <img width="32" height="32" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/react_icon_130845.png" />  React
 * <img width="32" height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" /> Node
 * <img width="32" height="32" src="https://cdn.icon-icons.com/icons2/1098/PNG/512/1485481300-38_78657.png" />HTML
