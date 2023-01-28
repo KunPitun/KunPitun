@@ -8,8 +8,8 @@
 * хочу писать топовый код ✍️🌟
 * делать крутые интерфейсы  🕸🕷
 * освоить новые ЯП 🤓🧗‍♀️
-* у меня есть 5 ящериц и черепаха 🦎🦎🦎🦎🦎🐢
-* рептилодиды захватят мир 🔫😈
+* у меня есть 5 ящериц и черепаха 🦎🐉🐲🦎🐉🐢
+* рептилодиды захватят мир 🔫🐲
 
 ## Мой стек:
 
@@ -26,10 +26,11 @@
 * <img width="32" height="32" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/procreate-file-3470736-2903599.png?w=256&f=avif" /> Procreate
 
 ## Моя статистика
+
+🔬📈
 -----
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunPitun)](https://github.com/anuraghazra/github-readme-stats)
------
 
 <!--
 **KunPitun/KunPitun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
