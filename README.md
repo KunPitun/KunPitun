@@ -25,7 +25,7 @@
 * <img width="32" height="32" src="https://cdn.icon-icons.com/icons2/56/PNG/512/metro_adobephotoshop_11458.png" /> Adobe Photoshop 
 * <img width="32" height="32" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/procreate-file-3470736-2903599.png?w=256&f=avif" /> Procreate
 
-## Моя статистика
+## Моя статистика:
 
 🔬📈
 -----
