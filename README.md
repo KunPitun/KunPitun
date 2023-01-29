@@ -36,7 +36,7 @@
 
 -----
 
-* <img width="32" height="32" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/telegram_icon_130816.png" /> [Telegram]https://t.me/WindDio
+* <img width="32" height="32" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/telegram_icon_130816.png" /> [Telegram](https://t.me/WindDio)
 * <img width="32" height="32" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" /> Gmail
 
 <!--
